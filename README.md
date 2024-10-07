@@ -1,6 +1,8 @@
 # Single-Page cv
 This is my single-page cv, based on an exercise from roadmap.sh, frontend roadmap, html: [single-page-cv](https://roadmap.sh/projects/single-page-cv)
 
+If you want to see the webpage live, head to [https://wiesje.github.io/single-page-cv/](https://wiesje.github.io/single-page-cv/) 
+
 ## Tech Stack
 This project is a single html page `index.html` and an `images` folder for accesories.
 
